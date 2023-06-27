@@ -1,0 +1,11 @@
+pre-commit>=2.12.0
+black>=19.10b0
+flake8>=3.9.2
+pytest>=6.2.4
+pytest-cov
+numpy
+scipy
+scikit-learn
+pandas
+tqdm==4.41.1
+mypy-extensions==0.4.3

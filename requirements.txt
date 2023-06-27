@@ -1,0 +1,14 @@
+pre-commit>=2.12.0
+black>=19.10b0
+flake8>=3.9.2
+pytest>=6.2.4
+numpy>=1.19.5
+scipy>=1.6.3
+scikit-learn>=0.24.2
+pandas>=1.2.4
+torch==1.2.0
+torchvision==0.4.0a0+6b959ee
+tqdm==4.41.1
+transformers==2.0.0
+mypy-extensions==0.4.3
+gensim==3.4.0

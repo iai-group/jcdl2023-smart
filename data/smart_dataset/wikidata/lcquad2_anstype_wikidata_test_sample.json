@@ -1,0 +1,4699 @@
+[
+    {
+        "id": 20258,
+        "question": "Who is the  country for head of state of Mahmoud Abbas",
+        "category": "resource",
+        "type": [
+            "country",
+            "disputed territory",
+            "state",
+            "Divided region",
+            "regime"
+        ]
+    },
+    {
+        "id": 12761,
+        "question": "Which female actress is the voice over on South Park and is employed as a singer?",
+        "category": "resource",
+        "type": [
+            "natural person",
+            "omnivore",
+            "person"
+        ]
+    },
+    {
+        "id": 4236,
+        "question": "What is nominated for of Dolores del Río that is for work is La Otra?",
+        "category": "resource",
+        "type": [
+            "award",
+            "class"
+        ]
+    },
+    {
+        "id": 27315,
+        "question": "On Lake Winnipeg what is the lakes on river?",
+        "category": "resource",
+        "type": [
+            "natural watercourse"
+        ]
+    },
+    {
+        "id": 2623,
+        "question": "What open cluster has the largest radius?",
+        "category": "resource",
+        "type": [
+            "star cluster"
+        ]
+    },
+    {
+        "id": 8287,
+        "question": "What is the end time for Whitehaven resident Jonathan Swift?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 23954,
+        "question": "TELL ME MODE OF TRANSPORT WHOSE NAME HAS THE WORD VEHICLE IN IT.",
+        "category": "resource",
+        "type": [
+            "class",
+            "type",
+            "means"
+        ]
+    },
+    {
+        "id": 7792,
+        "question": "Which of Danny Elfman's works was nominated for an Academy Award for Best Original Score?",
+        "category": "resource",
+        "type": [
+            "series",
+            "visual artwork",
+            "audiovisual work",
+            "moving image"
+        ]
+    },
+    {
+        "id": 23071,
+        "question": "What is the name of the opera based on Twelfth Night?",
+        "category": "resource",
+        "type": [
+            "musical work",
+            "play"
+        ]
+    },
+    {
+        "id": 6898,
+        "question": "Franz Waxman was nominated for which statement of subject at the 23rd Academy Awards?",
+        "category": "resource",
+        "type": [
+            "film award"
+        ]
+    },
+    {
+        "id": 6119,
+        "question": "In what area does the Rideau Canal join the Ottawa River?",
+        "category": "resource",
+        "type": [
+            "geographic location",
+            "geographic region",
+            "artificial geographic entity",
+            "municipality of Ontario",
+            "census geographic unit of Canada",
+            "unitary authority",
+            "community",
+            "city",
+            "city/town"
+        ]
+    },
+    {
+        "id": 8506,
+        "question": "Who was nominated for the Truman Show at the Academy Awards for Best Supporting Actor?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 22137,
+        "question": "Who is the god for John the Apostle?",
+        "category": "resource",
+        "type": [
+            "supernatural being",
+            "human who may be fictional",
+            "mythical character",
+            "abstract being",
+            "biblical character"
+        ]
+    },
+    {
+        "id": 29804,
+        "question": "When did socialist state for contains administrative territorial entity of Beijing?",
+        "category": "resource",
+        "type": [
+            "state",
+            "republic",
+            "political territorial entity",
+            "country"
+        ]
+    },
+    {
+        "id": 29519,
+        "question": "Which is the PIM authority ID of Paul Erdős?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 13544,
+        "question": "\"Who is wedded to to Radha, that has a child named Samba?\"",
+        "category": "resource",
+        "type": [
+            "person",
+            "deity",
+            "narrative entity"
+        ]
+    },
+    {
+        "id": 26554,
+        "question": "What is the MIA constituent ID for Johannes Gutenberg?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 27852,
+        "question": "What is in the category of Percy Bysshe Shelley?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 26109,
+        "question": "What is the TDKIV ID for the blog?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 9547,
+        "question": "What is the cause and place of John Denver's death?",
+        "category": "resource",
+        "type": [
+            "municipal corporation in the United States",
+            "like a city",
+            "human settlement",
+            "charter city of the United States",
+            "city of California",
+            "city"
+        ]
+    },
+    {
+        "id": 11247,
+        "question": "When did head of government of Seattle and work period (end)?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 20728,
+        "question": "Mention the spaceflight crew participant for accompanying Yuri Gagarin",
+        "category": "resource",
+        "type": [
+            "spacecraft",
+            "spaceflight"
+        ]
+    },
+    {
+        "id": 28883,
+        "question": "What is the maximum Strahler number for Loire?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 22603,
+        "question": "Which medicines have a major drug interaction with erythromycin?",
+        "category": "resource",
+        "type": [
+            "drug",
+            "chemical component",
+            "chemical substance",
+            "pure substance"
+        ]
+    },
+    {
+        "id": 12499,
+        "question": "Who is the eponym of Lake Eyre that also is the winner of the Founder's Medal?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 15324,
+        "question": "Which spot came from the Ebola virus?",
+        "category": "resource",
+        "type": [
+            "international organization",
+            "organization",
+            "subject of international law",
+            "political organisation"
+        ]
+    },
+    {
+        "id": 17092,
+        "question": "What is the unit conversion of the theme of joule?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 25044,
+        "question": "What is a Australian sports team that has the word \"team\" in their title?",
+        "category": "resource",
+        "type": [
+            "sports team",
+            "Q61766772"
+        ]
+    },
+    {
+        "id": 18379,
+        "question": "Does cobalt have a time-weighted average exposure limit of .1?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 25282,
+        "question": "Name an ethnolect indigenous to the United States of America that contains the word \"american\" in its name",
+        "category": "resource",
+        "type": [
+            "idiom",
+            "lect",
+            "human language",
+            "language variety"
+        ]
+    },
+    {
+        "id": 22528,
+        "question": "What is the capital of the Hamburg region?",
+        "category": "resource",
+        "type": [
+            "city",
+            "administrative territorial entity of the Czech Republic",
+            "municipality of the Czech Republic",
+            "Q12055729",
+            "city/town",
+            "first-level administrative country subdivision",
+            "okres",
+            "administrative territorial entity",
+            "constituency",
+            "fourth-level administrative country subdivision",
+            "juridical person",
+            "political territorial entity",
+            "obec",
+            "second-level administrative country subdivision",
+            "capital",
+            "enclave or exclave",
+            "kraj"
+        ]
+    },
+    {
+        "id": 14816,
+        "question": "who married to of actor of Bepanaah?",
+        "category": "resource",
+        "type": [
+            "person",
+            "natural person",
+            "omnivore"
+        ]
+    },
+    {
+        "id": 21388,
+        "question": "Who is the business for founded by of Ingvar Kamprad",
+        "category": "resource",
+        "type": [
+            "organization",
+            "economic unit"
+        ]
+    },
+    {
+        "id": 14805,
+        "question": "What is the significance of artists of The Beatles' Story?",
+        "category": "resource",
+        "type": [
+            "musical work",
+            "academic discipline",
+            "musical composition",
+            "artistic creation",
+            "vocal music",
+            "specialty",
+            "literary work"
+        ]
+    },
+    {
+        "id": 29878,
+        "question": "Name a park located in Rome.",
+        "category": "resource",
+        "type": [
+            "architectural structure",
+            "geographic location",
+            "green space",
+            "public space"
+        ]
+    },
+    {
+        "id": 29908,
+        "question": "Which is the business for the publisher of Space Invaders?",
+        "category": "resource",
+        "type": [
+            "organization",
+            "operation",
+            "economic unit",
+            "enterprise",
+            "company",
+            "juridical person",
+            "joint-stock company"
+        ]
+    },
+    {
+        "id": 28152,
+        "question": "Which is the BMLO for Frederick William I of Prussia?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 15468,
+        "question": "What are the borders of Southern Africa?",
+        "category": "resource",
+        "type": [
+            "continent"
+        ]
+    },
+    {
+        "id": 20597,
+        "question": "What is the IQ test for intelligence measurements?",
+        "category": "resource",
+        "type": [
+            "measurement tool",
+            "intelligence test"
+        ]
+    },
+    {
+        "id": 28985,
+        "question": "Which is the arterial supply for the human nose?",
+        "category": "resource",
+        "type": [
+            "Segment of arterial tree organ"
+        ]
+    },
+    {
+        "id": 17414,
+        "question": "Whhich is used for treatment of death cause of Madhavrao I?",
+        "category": "resource",
+        "type": [
+            "chemical component",
+            "drug",
+            "chemical substance",
+            "pure substance",
+            "medication"
+        ]
+    },
+    {
+        "id": 19595,
+        "question": "Does the Brazillian Military Cemetery of Pustoia quantity buried equal 369.6?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 11959,
+        "question": "Where did Margaret Murray die? It is the county town of Essex.",
+        "category": "resource",
+        "type": [
+            "urban area",
+            "human settlement",
+            "administrative territorial entity of a single country",
+            "big city",
+            "community",
+            "city with millions of inhabitants",
+            "city",
+            "city/town",
+            "political entity"
+        ]
+    },
+    {
+        "id": 12551,
+        "question": "Was Louis Agassiz worked at \"Davis Center for Russian and Eurasian Studies\"which is a subsidiary company of Harvard University?",
+        "category": "resource",
+        "type": [
+            "private educational institution",
+            "university",
+            "nonprofit organization",
+            "colleges and universities in the United States"
+        ]
+    },
+    {
+        "id": 26918,
+        "question": "What is the total solar radiation reflected off of Saturn?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 5971,
+        "question": "In what grave is Henrik Ibsen buried ar Var Freisers gravlund?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 11547,
+        "question": "When did position held of George Canning and end time?",
+        "category": "resource",
+        "type": [
+            "position",
+            "occupation",
+            "role"
+        ]
+    },
+    {
+        "id": 1261,
+        "question": "Charles the Bald has how many noble titles?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 23709,
+        "question": "TELL ME SPACE CENTER WHOSE NAME HAS THE WORD SPACE IT",
+        "category": "resource",
+        "type": [
+            "control room",
+            "spaceport",
+            "center"
+        ]
+    },
+    {
+        "id": 15689,
+        "question": "What is the native language of Champa",
+        "category": "resource",
+        "type": [
+            "languoid"
+        ]
+    },
+    {
+        "id": 12213,
+        "question": "What is the order of Augustine of Canterbury, which has been founded in the Abbey of monte Cassino?",
+        "category": "resource",
+        "type": [
+            "monastic order"
+        ]
+    },
+    {
+        "id": 21490,
+        "question": "WHat is the name of the Belgrade Airport?",
+        "category": "resource",
+        "type": [
+            "station",
+            "aerodrome"
+        ]
+    },
+    {
+        "id": 13747,
+        "question": "\"Where is town of Al Jawf Region, which has diplomatic relation is Sweden?\"",
+        "category": "resource",
+        "type": [
+            "state",
+            "political territorial entity",
+            "country"
+        ]
+    },
+    {
+        "id": 18593,
+        "question": "Does the BMW M20B20 have a torque equal to 160?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 22271,
+        "question": "What is the musical based on the book The Count of Monte Cristo?",
+        "category": "resource",
+        "type": [
+            "performing arts production",
+            "play",
+            "musical work",
+            "audiovisual work"
+        ]
+    },
+    {
+        "id": 4970,
+        "question": "What award was Jean Umansky nominated for in Amelie?",
+        "category": "resource",
+        "type": [
+            "film award"
+        ]
+    },
+    {
+        "id": 13267,
+        "question": "\"What is forename of Walter Yeo, which has similar to is Wöltje?\"",
+        "category": "resource",
+        "type": [
+            "given name"
+        ]
+    },
+    {
+        "id": 621,
+        "question": "Did Pope Paul VI work in both Rome and Munich?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 1436,
+        "question": "What is the time-weighted average exposure limit for arsenic?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 1175,
+        "question": "how many superpowers does wonder woman have?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 7097,
+        "question": "When did Glen Campbell receive a Grammy Hall of Fame award?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 16358,
+        "question": "What is Aleksandar Šapić's second language and what is their gender?",
+        "category": "resource",
+        "type": [
+            "grammatical category",
+            "noun class"
+        ]
+    },
+    {
+        "id": 16022,
+        "question": "Who introduced the prize received of Semyon Budyonny?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 21577,
+        "question": "Who is Prince George of Cambridge's parents?",
+        "category": "resource",
+        "type": [
+            "person",
+            "omnivore",
+            "natural person"
+        ]
+    },
+    {
+        "id": 18441,
+        "question": "Is the temperature of cosmic microwave background radiation equal to 2.72548?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 1397,
+        "question": "In French have a person in grammatical?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 26945,
+        "question": "What is Andrey Korotayev's researcher's ID?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 29430,
+        "question": "Which euroleague.net ID belongs to Arvydas Sabonis?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 29612,
+        "question": "Which is Städel Museum artist ID for Käthe Kollwitz?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 21523,
+        "question": "Name the collective pseudonym that refers to the Coen brothers.",
+        "category": "resource",
+        "type": [
+            "person",
+            "fictional humanoid",
+            "group of humans",
+            "pseudonym",
+            "fictional character"
+        ]
+    },
+    {
+        "id": 6975,
+        "question": "What job did Franz von Papen replace Herman Goring?",
+        "category": "resource",
+        "type": [
+            "role"
+        ]
+    },
+    {
+        "id": 26759,
+        "question": "What is Deutsche Olympiamannschaft athlete ID for Ralf Schumann?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 16847,
+        "question": "Is the developer of academic discipline, Petr Vopěnka?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 29814,
+        "question": "Which public office is John Jay part of?",
+        "category": "resource",
+        "type": [
+            "occupation",
+            "position",
+            "human activity"
+        ]
+    },
+    {
+        "id": 19755,
+        "question": "Which is the parabolic reflector operated by University of Toronto?",
+        "category": "resource",
+        "type": [
+            "telescope",
+            "reflector",
+            "astronomical observatory"
+        ]
+    },
+    {
+        "id": 17709,
+        "question": "Is 13413 Bob Peterson inventor find the item operator?",
+        "category": "resource",
+        "type": [
+            "public educational institution",
+            "public institution of the United States",
+            "colleges and universities in the United States",
+            "website",
+            "publisher",
+            "university",
+            "academic institution",
+            "government agency"
+        ]
+    },
+    {
+        "id": 26233,
+        "question": "Which is the oxidation state for phosphorus?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 7128,
+        "question": "When did Bruges die in Flanders County?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 23343,
+        "question": "What are the dynasty which start with the letter paduspanids",
+        "category": "resource",
+        "type": [
+            "lineage",
+            "noble family"
+        ]
+    },
+    {
+        "id": 28550,
+        "question": "Which is the exploitation visa number of Grease?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 4139,
+        "question": "In which serial ordinal was Eudoxia Lopukhina was spouse of Peter the Great?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 22526,
+        "question": "who is the art museum for residence of rembrandt?",
+        "category": "resource",
+        "type": [
+            "building",
+            "historic house",
+            "museum",
+            "history museum",
+            "museum of culture"
+        ]
+    },
+    {
+        "id": 2486,
+        "question": "Mention the real gross rate of domestic product growth in Unitary state?",
+        "category": "resource",
+        "type": [
+            "state",
+            "country"
+        ]
+    },
+    {
+        "id": 1584,
+        "question": "How much does Primavera depict?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 11653,
+        "question": "When did position held of Harold Holt and electoral district?",
+        "category": "resource",
+        "type": [
+            "role",
+            "position",
+            "occupation"
+        ]
+    },
+    {
+        "id": 20448,
+        "question": "Who is thelegislature for location of Indore",
+        "category": "resource",
+        "type": [
+            "legislature",
+            "state power",
+            "assembly",
+            "local authority",
+            "institution",
+            "organ"
+        ]
+    },
+    {
+        "id": 8416,
+        "question": "What is the numeric value for atomic nucleus with baryon number?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 29392,
+        "question": "What is the LinkedIn company ID for Nanyang Technological University?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 22893,
+        "question": "which is the library for  archive at bonn?",
+        "category": "resource",
+        "type": [
+            "GLAM",
+            "public archive",
+            "collection",
+            "facility",
+            "cultural institution"
+        ]
+    },
+    {
+        "id": 20737,
+        "question": "What Vostok mission did Yuri Gagarin fly in?",
+        "category": "resource",
+        "type": [
+            "spacecraft",
+            "spaceflight"
+        ]
+    },
+    {
+        "id": 13001,
+        "question": "Was George Arliss nominated for the movie  called The Apartment",
+        "category": "resource",
+        "type": [
+            "film award"
+        ]
+    },
+    {
+        "id": 5105,
+        "question": "In what series was Helmut Kohl's given name Michael?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 7413,
+        "question": "Which actor plays Harry Potter in the movies of the same name?",
+        "category": "resource",
+        "type": [
+            "role",
+            "literary archetype"
+        ]
+    },
+    {
+        "id": 19603,
+        "question": "Do the vehicles per thousand people equal 540 in Dubai?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 28267,
+        "question": "Which is the V&A artwork ID for California Institute of the Arts?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 1578,
+        "question": "How many connects with the Trans-Siberian railway are there?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 20582,
+        "question": "What is tournament for snooker called",
+        "category": "resource",
+        "type": [
+            "sports festival",
+            "tournament"
+        ]
+    },
+    {
+        "id": 7222,
+        "question": "What is the location of  Saint-Denis?",
+        "category": "resource",
+        "type": [
+            "time zone"
+        ]
+    },
+    {
+        "id": 13628,
+        "question": "What PhD advisor of Clifford Geertz has the significant works The Structure of Social Action?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 12617,
+        "question": "Which is the rural city of Fukushim?",
+        "category": "resource",
+        "type": [
+            "first-level administrative country subdivision",
+            "administrative territorial entity of Japan",
+            "prefecture",
+            "local public entity"
+        ]
+    },
+    {
+        "id": 6343,
+        "question": "What award was Joel Grey nominated for in the 33rd Tony Awards?",
+        "category": "resource",
+        "type": [
+            "award"
+        ]
+    },
+    {
+        "id": 12408,
+        "question": "Who coined the name of RNA polymerase, who also has work as a biochemist?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 24937,
+        "question": "Which is the recurring sporting event of the Tennis Australia organizer that contains the word australian in it's name?",
+        "category": "resource",
+        "type": [
+            "recurring event"
+        ]
+    },
+    {
+        "id": 16732,
+        "question": "how many records were held for  sports event of  kamal ziani?",
+        "category": "resource",
+        "type": [
+            "person",
+            "omnivore",
+            "natural person"
+        ]
+    },
+    {
+        "id": 16540,
+        "question": "What is the  divisions of member of École Centrale de Lille?",
+        "category": "resource",
+        "type": [
+            "system",
+            "academic discipline",
+            "branch of science",
+            "activity",
+            "specialty"
+        ]
+    },
+    {
+        "id": 15373,
+        "question": "Who gave the contestant of series of Bully on the Bus?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "natural person",
+            "person"
+        ]
+    },
+    {
+        "id": 18725,
+        "question": "DOES THE MAGNIFICATION OF THE TZF 5E EQUALS 2.4",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 1411,
+        "question": "How many members of the political party are there for Matyas Rokosi?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 29904,
+        "question": "Which is the nonprofit organization for the authority of the football association?",
+        "category": "resource",
+        "type": [
+            "sports governing body",
+            "organization",
+            "sports federation",
+            "international organization",
+            "juridical person"
+        ]
+    },
+    {
+        "id": 594,
+        "question": "Did Chuck Berry's instruments include the Fender Stratocaster and Gibson ES-335?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 14646,
+        "question": "What literary genre does Sarah Brightman belong to?",
+        "category": "resource",
+        "type": [
+            "aspect of music",
+            "art genre",
+            "genre",
+            "performing arts genre",
+            "literary genre"
+        ]
+    },
+    {
+        "id": 2549,
+        "question": "WHICH IS THE SINKING WITH THE MAXIMUM NUMBER OF MISSING",
+        "category": "resource",
+        "type": [
+            "disaster",
+            "shipwrecking",
+            "incident",
+            "hazard",
+            "cause of death",
+            "condition",
+            "social issue",
+            "occurrence"
+        ]
+    },
+    {
+        "id": 15196,
+        "question": "Who wrote Trishira?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 3002,
+        "question": "Which fluorine-containing heterocyclic compound has the largest mass?",
+        "category": "resource",
+        "type": [
+            "chemical substance",
+            "chemical component",
+            "drug",
+            "pure substance",
+            "cyclic compound",
+            "hydroxides",
+            "organic compound"
+        ]
+    },
+    {
+        "id": 27517,
+        "question": "What is  in the satellite bus of X Window System?",
+        "category": "resource",
+        "type": [
+            "software",
+            "system software"
+        ]
+    },
+    {
+        "id": 19457,
+        "question": "DOES THE ELIGIBLE VOTERS OF THE CATALAN REGIONAL ELECTION 2015 IN CASTELL DE I ARENY EQUALS 48.0",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 8636,
+        "question": "Which court convicted Jari Sillanpaa of driving under the influence?",
+        "category": "resource",
+        "type": [
+            "court"
+        ]
+    },
+    {
+        "id": 1382,
+        "question": "Who were the students of Caspar David Friedrich?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 3892,
+        "question": "What degree did Katherine Dunham earn at the University of Chicago?",
+        "category": "resource",
+        "type": [
+            "academic title",
+            "academic degree"
+        ]
+    },
+    {
+        "id": 20002,
+        "question": "Which aircraft family is operated by EasyJet?",
+        "category": "resource",
+        "type": [
+            "class",
+            "vehicle model series",
+            "aircraft"
+        ]
+    },
+    {
+        "id": 16361,
+        "question": "what is the wives of landscape of snake dance, ruth st. denis?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 17490,
+        "question": "What is first language of Dirk Nowitzki?",
+        "category": "resource",
+        "type": [
+            "grammatical category"
+        ]
+    },
+    {
+        "id": 9557,
+        "question": "What is the country of citizenship and occupation of Bruno Mars?",
+        "category": "resource",
+        "type": [
+            "state",
+            "country",
+            "political territorial entity",
+            "nation",
+            "federal system",
+            "oligarchy",
+            "plutocracy",
+            "republic",
+            "artistic profession"
+        ]
+    },
+    {
+        "id": 18074,
+        "question": "Is the maximum peak exposure limit of styrene equal to 3067.2?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 27799,
+        "question": "What are the game mechanics of Dungeons & Dragons?",
+        "category": "resource",
+        "type": [
+            "game rules"
+        ]
+    },
+    {
+        "id": 19199,
+        "question": "Does MV Explorer speed equal to 12.5?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 22550,
+        "question": "Magnus Carlsen is a part of what sport?",
+        "category": "resource",
+        "type": [
+            "sports festival",
+            "season",
+            "competition"
+        ]
+    },
+    {
+        "id": 17656,
+        "question": "What is the drug interaction of the prescribed drug for focal epilepsy?",
+        "category": "resource",
+        "type": [
+            "chemical substance",
+            "drug",
+            "medication",
+            "chemical component",
+            "pure substance"
+        ]
+    },
+    {
+        "id": 20474,
+        "question": "Whom did Oliver Cromwell get married to?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 920,
+        "question": "Did Garth Brooks record with Big Machine Records and Decca?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 19279,
+        "question": "Is the luminosity of the Alpha Andromedae less than 240.0?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 15124,
+        "question": "WHO STUDIED THE SUBITEM OF ENGINEERING ETHICS?",
+        "category": "resource",
+        "type": [
+            "occupation",
+            "academic title",
+            "job"
+        ]
+    },
+    {
+        "id": 2698,
+        "question": "What product has the highest consumption rate?",
+        "category": "resource",
+        "type": [
+            "natural resource",
+            "chemical substance",
+            "goods",
+            "product",
+            "natural resource wealth",
+            "artificial physical object"
+        ]
+    },
+    {
+        "id": 26937,
+        "question": "What is Quecha's Wikimedia language code?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 16422,
+        "question": "Who founded postmodernism?",
+        "category": "resource",
+        "type": [
+            "public research institution",
+            "voluntary association",
+            "scientific organisation"
+        ]
+    },
+    {
+        "id": 28962,
+        "question": "Which is the top-level Internet domain of Saint-Barthélemy?",
+        "category": "resource",
+        "type": [
+            "top-level domain"
+        ]
+    },
+    {
+        "id": 19068,
+        "question": "Is there only one platform track?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 26789,
+        "question": "What is the Cultural heritage database in Austria ObjektID for Belvedere?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 24144,
+        "question": "what is the game name starts with z",
+        "category": "resource",
+        "type": [
+            "play",
+            "entertainment",
+            "recreative work",
+            "parlour game"
+        ]
+    },
+    {
+        "id": 23391,
+        "question": "Which is the painting that contains the word young in it's name?",
+        "category": "resource",
+        "type": [
+            "visual artwork"
+        ]
+    },
+    {
+        "id": 15430,
+        "question": "Which is bordered by the principle office of The Daily Manila Shimbun?",
+        "category": "resource",
+        "type": [
+            "city of the Philippines"
+        ]
+    },
+    {
+        "id": 1599,
+        "question": "How many crew members work for Skylab?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 29053,
+        "question": "Brown has what spore print color?",
+        "category": "resource",
+        "type": [
+            "group of living things",
+            "class"
+        ]
+    },
+    {
+        "id": 16160,
+        "question": "Who is the seiyu of part of a series of Max Jets?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "natural person",
+            "person"
+        ]
+    },
+    {
+        "id": 16040,
+        "question": "Who is bestowed by the award won from Karmen Jelincic?",
+        "category": "resource",
+        "type": [
+            "organization",
+            "juridical person",
+            "international organization",
+            "non-governmental organization"
+        ]
+    },
+    {
+        "id": 28963,
+        "question": "Which is the public holiday of Georgia?",
+        "category": "resource",
+        "type": [
+            "holiday",
+            "non-working day",
+            "religious festival",
+            "day",
+            "recurring event"
+        ]
+    },
+    {
+        "id": 5633,
+        "question": "What position did F.W. de Klerk replace Alwyn Schelbusch as?",
+        "category": "resource",
+        "type": [
+            "role"
+        ]
+    },
+    {
+        "id": 29936,
+        "question": "Name a natural satellite of Uranus.",
+        "category": "resource",
+        "type": [
+            "natural satellite",
+            "satellite"
+        ]
+    },
+    {
+        "id": 19391,
+        "question": "Does Bitfinex has a trading fee equal to 0.16?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 5548,
+        "question": "When did Jeff Bridges receive a Golden Globe Award?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 21480,
+        "question": "What is the writing system using traditional Chinese characters?",
+        "category": "resource",
+        "type": [
+            "notation"
+        ]
+    },
+    {
+        "id": 22066,
+        "question": "What alphabet does Arabic use?",
+        "category": "resource",
+        "type": [
+            "lect",
+            "idiom",
+            "language variety"
+        ]
+    },
+    {
+        "id": 28184,
+        "question": "Which is the spin quantum number for boson?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 25069,
+        "question": "What German dog breed contains the word \"Weimaraner\" in its name?",
+        "category": "resource",
+        "type": [
+            "breed"
+        ]
+    },
+    {
+        "id": 14772,
+        "question": "Which is award received by pupil of Enrico Fermi?",
+        "category": "resource",
+        "type": [
+            "award"
+        ]
+    },
+    {
+        "id": 29289,
+        "question": "Which is the honorific prefix for Dame?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 13619,
+        "question": "Name the songwriter of Fantasia on a Theme by Thomas Tallis and has Joan Trimble as disciple.",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 14102,
+        "question": "What is in the village of Negev that has diplomatic relations with the Czech Republic?",
+        "category": "resource",
+        "type": [
+            "country",
+            "political territorial entity",
+            "state"
+        ]
+    },
+    {
+        "id": 24981,
+        "question": "Which is the borough of New York City for the category of the associated people of the People from Manhattan and contains the word manhattan in it's name?",
+        "category": "resource",
+        "type": [
+            "administrative territorial entity of New York (state)",
+            "quarter",
+            "borough in the United States"
+        ]
+    },
+    {
+        "id": 14718,
+        "question": "Who is the writer of the prequel \"Girls Under Pressure?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 18822,
+        "question": "Does the earthquake magnitude on the Richter magnitude scale of the 1995 Marathon earthquake equal 5.7?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 22304,
+        "question": "What series of films was produced by Mike Myers",
+        "category": "resource",
+        "type": [
+            "media franchise",
+            "audiovisual work",
+            "work of art",
+            "series of creative works"
+        ]
+    },
+    {
+        "id": 18676,
+        "question": "Is the oxidation state of phosphorus equal to 3?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 28186,
+        "question": "What is the Bien de Interes Cultural (BIC) code of Cave of Altamira?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 29038,
+        "question": "WHICH TOGETHER WITH AIDS",
+        "category": "resource",
+        "type": [
+            "health problem",
+            "infection associated with diseases",
+            "disease"
+        ]
+    },
+    {
+        "id": 995,
+        "question": "Are Chongqing and Ulsan twinned administrative bodies of Chennai?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 16678,
+        "question": "What are the official languages of Grand Duchy of Finland?",
+        "category": "resource",
+        "type": [
+            "grammatical category"
+        ]
+    },
+    {
+        "id": 16235,
+        "question": "What type of artwork does Jane Pauley's husband do?",
+        "category": "resource",
+        "type": [
+            "comics"
+        ]
+    },
+    {
+        "id": 1405,
+        "question": "What territory overlaps the Rideau Canal?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 9589,
+        "question": "Who is Diego Maradona's spouse and his position/specialty on the team?",
+        "category": "resource",
+        "type": [
+            "person",
+            "omnivore",
+            "position",
+            "natural person"
+        ]
+    },
+    {
+        "id": 15604,
+        "question": "who work  of actor of looney tunes Super Stars' Pepe Le Pew: Zee Best of Zee Best?",
+        "category": "resource",
+        "type": [
+            "film series"
+        ]
+    },
+    {
+        "id": 9780,
+        "question": "What are the genetic association and the health specialty of a Migraine?",
+        "category": "resource",
+        "type": [
+            "biological region",
+            "biological sequence",
+            "health specialty",
+            "specialty",
+            "Nucleic acid sequence",
+            "branch of science"
+        ]
+    },
+    {
+        "id": 17846,
+        "question": "Who compiled and published A Portrait of the Artist as a Young Man?",
+        "category": "resource",
+        "type": [
+            "person",
+            "omnivore",
+            "natural person"
+        ]
+    },
+    {
+        "id": 13197,
+        "question": "What city is adjacent to Essex and is a Royal Borough of Kensington and Chelsea?",
+        "category": "resource",
+        "type": [
+            "lieutenancy area",
+            "county of England"
+        ]
+    },
+    {
+        "id": 6001,
+        "question": "What is Israel's diplomatic position in Israel's and the United States relations?",
+        "category": "resource",
+        "type": [
+            "federal system",
+            "country",
+            "republic",
+            "state",
+            "plutocracy",
+            "oligarchy",
+            "nation",
+            "political territorial entity"
+        ]
+    },
+    {
+        "id": 355,
+        "question": "Did Zinedine Zidane play as a midfielder?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 14950,
+        "question": "What do you call a citizen of Belgium?",
+        "category": "resource",
+        "type": [
+            "international organization",
+            "organization",
+            "subject of international law",
+            "political organisation"
+        ]
+    },
+    {
+        "id": 22612,
+        "question": "Which is the sub-orbital spaceflight for Astronaut Alan Shepard?",
+        "category": "resource",
+        "type": [
+            "spacecraft",
+            "spaceflight"
+        ]
+    },
+    {
+        "id": 19877,
+        "question": "What chemical substance is named after sperm whales?",
+        "category": "resource",
+        "type": [
+            "physical substance",
+            "chemical entity"
+        ]
+    },
+    {
+        "id": 16757,
+        "question": "Which is the HQ location of the party of the member Rajesh Khanna?",
+        "category": "resource",
+        "type": [
+            "transport infrastructure",
+            "architectural structure",
+            "thoroughfare",
+            "road"
+        ]
+    },
+    {
+        "id": 4789,
+        "question": "When was Joe Greene has received award as AP NFL Defensive player of the year?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 555,
+        "question": "Does Seoul contain administrative territorial entities Jongno District and Gangbuk District?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 26436,
+        "question": "Which is the publisher of Through the Looking-Glass?",
+        "category": "resource",
+        "type": [
+            "organization",
+            "media enterprise"
+        ]
+    },
+    {
+        "id": 24268,
+        "question": "Bring the milk tea that starts with the letter 't'",
+        "category": "resource",
+        "type": [
+            "tea"
+        ]
+    },
+    {
+        "id": 20813,
+        "question": "What countries are within the European Union?",
+        "category": "resource",
+        "type": [
+            "state",
+            "country",
+            "political territorial entity"
+        ]
+    },
+    {
+        "id": 26386,
+        "question": "Which is the Cycling Quotient male cyclist ID of Chris Froome?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 4719,
+        "question": "What position does Giorgio Vasari hold at House of Medici?",
+        "category": "resource",
+        "type": [
+            "role"
+        ]
+    },
+    {
+        "id": 28153,
+        "question": "Which is the Art Museum of Estonia artist ID for Egon Schiele?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 5631,
+        "question": "When was James Garner nominated as Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Miniseries or Television Movie?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 1358,
+        "question": "Name the religions names of the  Mother Teresa?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 15442,
+        "question": "What is the portrait of Thomas Lawrence's major works?",
+        "category": "resource",
+        "type": [
+            "organism",
+            "race",
+            "class",
+            "color",
+            "group of living things"
+        ]
+    },
+    {
+        "id": 20050,
+        "question": "Which is the taxon that has effect on typhus?",
+        "category": "resource",
+        "type": [
+            "class",
+            "group of living things"
+        ]
+    },
+    {
+        "id": 29460,
+        "question": "What is Uzbekistan's PPP GDP per capita?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 19446,
+        "question": "Is the relative permeability of iron equal to 240000.0",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 27617,
+        "question": "What is Allcinema film ID for Groundhog Day?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 12022,
+        "question": "Who is the favorite player of Objective-C, that was developed by Daniel Henry Holmes Ingalls?",
+        "category": "resource",
+        "type": [
+            "programming language",
+            "object-based language",
+            "computer language"
+        ]
+    },
+    {
+        "id": 24320,
+        "question": "What are the photographic technique which start with the letter v",
+        "category": "resource",
+        "type": [
+            "visual arts technique",
+            "physical phenomenon"
+        ]
+    },
+    {
+        "id": 24075,
+        "question": "What are the stellar classification which start with the letter t",
+        "category": "resource",
+        "type": [
+            "astronomy classification"
+        ]
+    },
+    {
+        "id": 28637,
+        "question": "Which is the ultimate tensile strength of nylon?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 17557,
+        "question": "What is olympic record of sports relay race?",
+        "category": "resource",
+        "type": [
+            "list",
+            "MediaWiki main-namespace page",
+            "Wikimedia internal item"
+        ]
+    },
+    {
+        "id": 2491,
+        "question": "WHICH IS THE CLASS IC FLAMMABLE LIQUID WITH THE MAXIMUM BOILING POINT",
+        "category": "resource",
+        "type": [
+            "flammable liquid",
+            "pure substance",
+            "chemical component",
+            "chemical entity",
+            "physical substance",
+            "fluid"
+        ]
+    },
+    {
+        "id": 28219,
+        "question": "At what temperature is phosphine flammable?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 22053,
+        "question": "Which is the administrative territorial entity for the territory claimed by the German Democratic Republic?",
+        "category": "resource",
+        "type": [
+            "enclave or exclave",
+            "big city",
+            "human-geographic territorial entity",
+            "border town"
+        ]
+    },
+    {
+        "id": 7711,
+        "question": "What year did Japan begin to share a border with China?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 17679,
+        "question": "Who was first discoverer of Indo-European languages?",
+        "category": "resource",
+        "type": [
+            "human language",
+            "languoid"
+        ]
+    },
+    {
+        "id": 14880,
+        "question": "what is the place of origin of the executive power headed by Led Zappelin?",
+        "category": "resource",
+        "type": [
+            "person",
+            "omnivore",
+            "natural person"
+        ]
+    },
+    {
+        "id": 13795,
+        "question": "\"Which is bordered by of Tamaulipas, where has has shires is Brewster County?\"",
+        "category": "resource",
+        "type": [
+            "first-level administrative country subdivision",
+            "administrative territorial entity of the United States",
+            "federated state",
+            "constituency"
+        ]
+    },
+    {
+        "id": 14126,
+        "question": "Name the place where Thomas Cole died, that is divided into Rensselaer County.",
+        "category": "resource",
+        "type": [
+            "first-level administrative country subdivision",
+            "administrative territorial entity of the United States",
+            "federated state",
+            "constituency"
+        ]
+    },
+    {
+        "id": 3169,
+        "question": "Which referendum following the Thirty-First Amendment of the Constitution of Ireland received the most votes?",
+        "category": "resource",
+        "type": [
+            "referendum"
+        ]
+    },
+    {
+        "id": 279,
+        "question": "The Chainsmokers originated in the United States of America.",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 20420,
+        "question": "Which video game was Phil Lamarr voice actor for?",
+        "category": "resource",
+        "type": [
+            "electronic game",
+            "item of collection or exhibition",
+            "creative work",
+            "entertainment software"
+        ]
+    },
+    {
+        "id": 22259,
+        "question": "What is someone who play Australian rules football called?",
+        "category": "resource",
+        "type": [
+            "person",
+            "omnivore",
+            "natural person"
+        ]
+    },
+    {
+        "id": 19950,
+        "question": "Taj Mahal, the humans place of burial is where?",
+        "category": "resource",
+        "type": [
+            "person",
+            "omnivore",
+            "natural person"
+        ]
+    },
+    {
+        "id": 8062,
+        "question": "When did Gunter Grass recieved the award of Princess of Asturias Literary Prize?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 26741,
+        "question": "What is RePEc Short-ID for Lars Peter Hansen?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 28722,
+        "question": "What is the source of material of Central Africa?",
+        "category": "resource",
+        "type": [
+            "phrase",
+            "narrative motif"
+        ]
+    },
+    {
+        "id": 5048,
+        "question": "When did Pausanias die?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 29996,
+        "question": "Which is the city that shares a border with LA?",
+        "category": "resource",
+        "type": [
+            "city/town",
+            "charter city of the United States",
+            "city of California",
+            "city of the United States"
+        ]
+    },
+    {
+        "id": 27068,
+        "question": "What is the Swedish Gravestone ID of Alfred Nobel?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 26886,
+        "question": "What is Museofile of Musée d'Orsay?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 6265,
+        "question": "When did the Republic of Bashkortostan cease to be under the administrative territorial entity of the Russian Soviet Federative Socialist Republic?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 27342,
+        "question": "What is the Open Media Database ID of Mad Max?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 15297,
+        "question": "What is depicted in the Garden of Guangzhou?",
+        "category": "resource",
+        "type": [
+            "city/town",
+            "prefecture of the People's Republic of China",
+            "city",
+            "big city"
+        ]
+    },
+    {
+        "id": 17752,
+        "question": "Which are the papers of the narrative set in The Grapes of Wrath?",
+        "category": "resource",
+        "type": [
+            "GLAM",
+            "location"
+        ]
+    },
+    {
+        "id": 17931,
+        "question": "What time is turbulence implied?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 239,
+        "question": "Was there a remake of the show Doctor Who that was also called Doctor Who?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 28292,
+        "question": "What is Gamebase64 identifier for Donkey Kong?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 17187,
+        "question": "What is srgb colour hex triplet of colour charcoal?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 17905,
+        "question": "What is on the tracklist of the art collection of Papryus Oxyrchynchus 223?",
+        "category": "resource",
+        "type": [
+            "library",
+            "university",
+            "academic library",
+            "school library",
+            "private educational institution"
+        ]
+    },
+    {
+        "id": 16200,
+        "question": "What is the Q48460 of basin countries of Loch Ness?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 28806,
+        "question": "Mario Vargas Llosa has which Base de datos de premiados person ID?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 16880,
+        "question": "What is PIN Code for lives  of Halle Berry?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 1050,
+        "question": "What were the last words of Jesus Christ?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 16274,
+        "question": "Who is the seiyu of the successful film Planes: Fire & Rescue?",
+        "category": "resource",
+        "type": [
+            "person",
+            "natural person",
+            "omnivore"
+        ]
+    },
+    {
+        "id": 1169,
+        "question": "how many authors have there been for the new testament?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 18979,
+        "question": "Is the admission rate of the University of British Columbia more than 0.4192?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 3839,
+        "question": "Where in Moscow was Nikita Mikhalkov born?",
+        "category": "resource",
+        "type": [
+            "former administrative territorial entity",
+            "state",
+            "country"
+        ]
+    },
+    {
+        "id": 18721,
+        "question": "Is the apparent magnitude of the Messier 2 less than 5.2?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 12089,
+        "question": "Where is the sculptors of  male Smurfs?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 8450,
+        "question": "Give me end time for Alexey Leonov has significant event as extra-vehicular activity?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 18107,
+        "question": "Is the maximum Strahler number of the Kipps Run equal 2?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 8653,
+        "question": "When was Jacobus Henricus van 't Hoff awarded the Helmoltzh Medal?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 2458,
+        "question": "What profession has the highest base salary?",
+        "category": "resource",
+        "type": [
+            "occupation",
+            "job"
+        ]
+    },
+    {
+        "id": 6271,
+        "question": "Who replaced Peter Damian as the cardinal-bishop?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 18711,
+        "question": "Does the Maschingewehrkraftwagen have a maximum capacoty equal to 2",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 23261,
+        "question": "Tell me gene whose name has the word vgf in it.",
+        "category": "resource",
+        "type": [
+            "Nucleic acid sequence",
+            "biological sequence",
+            "biological region"
+        ]
+    },
+    {
+        "id": 18569,
+        "question": "Does the net tonnage of the Maggie Lee equal 8?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 6004,
+        "question": "What was William Styron nominated for for his work in Lie Down in Darkness?",
+        "category": "resource",
+        "type": [
+            "award"
+        ]
+    },
+    {
+        "id": 27446,
+        "question": "What is Armenian Cinema ID for Aram Khachaturian?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 18586,
+        "question": "Is 160 the stroke of the Mayback MD 871?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 3095,
+        "question": "What Han Chinese person has the largest net worth?",
+        "category": "resource",
+        "type": [
+            "person",
+            "omnivore",
+            "natural person"
+        ]
+    },
+    {
+        "id": 6838,
+        "question": "What work by Alanis Morissette spurred her nomination for the Juno Award Songwriter of the year?",
+        "category": "resource",
+        "type": [
+            "release"
+        ]
+    },
+    {
+        "id": 2798,
+        "question": "Which airline has the highest total revenue?",
+        "category": "resource",
+        "type": [
+            "air carrier",
+            "airline"
+        ]
+    },
+    {
+        "id": 5425,
+        "question": "When Demi Moore got married to Bruce Willis?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 9466,
+        "question": "What is Gene Hackman's nomination area for the 43rd Academy Awards?",
+        "category": "resource",
+        "type": [
+            "film award"
+        ]
+    },
+    {
+        "id": 7339,
+        "question": "When was Tip O'Neill no longer the speaker of the United States House of Representatives?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 12259,
+        "question": "What was the university attended by Jad Abumrad while he was a member of the Center for Research Libraries?",
+        "category": "resource",
+        "type": [
+            "building",
+            "nonprofit organization",
+            "private educational institution",
+            "higher education institution"
+        ]
+    },
+    {
+        "id": 4060,
+        "question": "What is  pronunciation audio  of  butter  that is  working language or name  is  Czech?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 26872,
+        "question": "Which is the UNII for silver nitrate?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 990,
+        "question": "Did RuPaul used to make Eurodance and electronic dance music?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 16118,
+        "question": "Who is starring in the film series of Souls of the Departed?",
+        "category": "resource",
+        "type": [
+            "person",
+            "natural person",
+            "omnivore"
+        ]
+    },
+    {
+        "id": 6799,
+        "question": "When did Maria Tallchief receive the Capezio Dance Award?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 23643,
+        "question": "What are the war of national liberation which start with the letter war",
+        "category": "resource",
+        "type": [
+            "war of independence"
+        ]
+    },
+    {
+        "id": 4822,
+        "question": "When did Adunis win the Janus Pannonius International Poetry Prize?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 803,
+        "question": "Was Homo sapiens source of energy vitamin and large intestine?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 24622,
+        "question": "What are the biblical episode which start with the letter s",
+        "category": "resource",
+        "type": [
+            "narrative",
+            "myth",
+            "cultural depiction",
+            "information",
+            "artistic theme",
+            "plot"
+        ]
+    },
+    {
+        "id": 22167,
+        "question": "What cities in Japan use the yen?",
+        "category": "resource",
+        "type": [
+            "administrative territorial entity of Japan",
+            "municipality of Japan",
+            "local public entity",
+            "municipality",
+            "town"
+        ]
+    },
+    {
+        "id": 25552,
+        "question": "Tell me the public univbersity that used English language and which starts with the letter u",
+        "category": "resource",
+        "type": [
+            "public educational institution",
+            "university",
+            "academic institution"
+        ]
+    },
+    {
+        "id": 11416,
+        "question": "When did educated at of Stephen King and academic degree?",
+        "category": "resource",
+        "type": [
+            "public institution of the United States",
+            "educational organization",
+            "colleges and universities in the United States",
+            "institutional complex",
+            "public educational institution",
+            "public university"
+        ]
+    },
+    {
+        "id": 6302,
+        "question": "What was Robert Jenkinson, 2nd Earl of Liverpool's position when he was replaced by William Wyndham Grenville, 1st Baron of Grenville?",
+        "category": "resource",
+        "type": [
+            "role",
+            "occupation",
+            "position"
+        ]
+    },
+    {
+        "id": 19757,
+        "question": "Who was a student of John the Apostle?",
+        "category": "resource",
+        "type": [
+            "person",
+            "human who may be fictional",
+            "mythical character",
+            "omnivore",
+            "supernatural being",
+            "abstract being",
+            "biblical character",
+            "natural person"
+        ]
+    },
+    {
+        "id": 22047,
+        "question": "What steel bridge was designed by the architect Isambard Kingdom Brunel?",
+        "category": "resource",
+        "type": [
+            "bridge",
+            "steel construction",
+            "bridge by material",
+            "metal bridge",
+            "architectural structure",
+            "thoroughfare"
+        ]
+    },
+    {
+        "id": 1486,
+        "question": "How many countries are in Translyvania?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 9717,
+        "question": "What is the country and the World Heritage criteria of Taj_Mahal?",
+        "category": "resource",
+        "type": [
+            "political territorial entity",
+            "criterion",
+            "country",
+            "state",
+            "democracy",
+            "dependent territory"
+        ]
+    },
+    {
+        "id": 16701,
+        "question": "what  is genre of music of portrayed by ghoomar song?",
+        "category": "resource",
+        "type": [
+            "art genre",
+            "genre",
+            "aspect of music"
+        ]
+    },
+    {
+        "id": 27760,
+        "question": "what is OCLC control number for Fear and Loathing in Las Vegas",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 22216,
+        "question": "Who is the telescope operator for California Institute of Technology",
+        "category": "resource",
+        "type": [
+            "interferometer",
+            "telescope",
+            "astronomical instrument",
+            "optical instrument"
+        ]
+    },
+    {
+        "id": 17938,
+        "question": "what are the  signs and cause of carbon tetrachloride?",
+        "category": "resource",
+        "type": [
+            "health problem",
+            "physiological condition",
+            "clinical finding"
+        ]
+    },
+    {
+        "id": 2751,
+        "question": "Which cover version has the highest beats per minute?",
+        "category": "resource",
+        "type": [
+            "musical work",
+            "derivative work",
+            "version, edition, or translation",
+            "arrangement"
+        ]
+    },
+    {
+        "id": 12235,
+        "question": "What is the twin town of the Shiga Prefecture that has districts in the Eugenio de Castro area?",
+        "category": "resource",
+        "type": [
+            "first-level administrative country subdivision",
+            "political territorial entity",
+            "administrative territorial entity of Brazil",
+            "constituency"
+        ]
+    },
+    {
+        "id": 13088,
+        "question": "Who are the sculptors of The Dream of the Fisherman's Wife whose artistic genre is ukiyo-e?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 15072,
+        "question": "What are the different sports that make up the Women's Triathlon at the 2008 Summer Olympics?",
+        "category": "resource",
+        "type": [
+            "class"
+        ]
+    },
+    {
+        "id": 24495,
+        "question": "Tell me spiral galaxy which start with the letter u",
+        "category": "resource",
+        "type": [
+            "galaxy",
+            "astronomical radio source",
+            "astronomical object"
+        ]
+    },
+    {
+        "id": 21959,
+        "question": "Which is the short film that had Sergei Eisenstein as film editor?",
+        "category": "resource",
+        "type": [
+            "film"
+        ]
+    },
+    {
+        "id": 26330,
+        "question": "Which is the noble title of Alexander the Great?",
+        "category": "resource",
+        "type": [
+            "title",
+            "rank",
+            "human activity",
+            "role",
+            "social class"
+        ]
+    },
+    {
+        "id": 25910,
+        "question": "Which is conferred by WWE?",
+        "category": "resource",
+        "type": [
+            "bounty",
+            "recognition",
+            "grant"
+        ]
+    },
+    {
+        "id": 1356,
+        "question": "How many payment types are accepted at the Louvre museum?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 15222,
+        "question": "Who is the writer of the remake of Lake in the Lake?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 17155,
+        "question": "What is highest peak of the endemism of Callobius klamath?",
+        "category": "resource",
+        "type": [
+            "mountain",
+            "volcano"
+        ]
+    },
+    {
+        "id": 18975,
+        "question": "Does the amount of votes received for the swiss animal protection referendum of 1893 equal 101,580.8",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 26648,
+        "question": "what is pase ID for athelstan?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 19469,
+        "question": "Is it true that the total shots in career of Petteri Wirtanen equals to 1?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 15010,
+        "question": "Who founded the video game publisher of the game Inca?",
+        "category": "resource",
+        "type": [
+            "person",
+            "omnivore",
+            "natural person"
+        ]
+    },
+    {
+        "id": 25444,
+        "question": "What is the name of the organization that begins with K, whose leader is named Yuri Andropov",
+        "category": "resource",
+        "type": [
+            "secret service"
+        ]
+    },
+    {
+        "id": 20546,
+        "question": "What is the name of the Southwest Airlines company magazine?",
+        "category": "resource",
+        "type": [
+            "intellectual work",
+            "publication",
+            "text",
+            "communication medium",
+            "serial",
+            "recurring"
+        ]
+    },
+    {
+        "id": 21290,
+        "question": "Who is the architect they used for the White House?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 19484,
+        "question": "Is the wingspan of the Andean Condor equal to 3.048?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 20433,
+        "question": "Mention in which city in United States was Friends pictured.",
+        "category": "resource",
+        "type": [
+            "city",
+            "city/town",
+            "human settlement",
+            "urban area",
+            "municipal corporation in the United States",
+            "like a city",
+            "big city",
+            "community"
+        ]
+    },
+    {
+        "id": 27027,
+        "question": "What is Czech Street ID of Charles Bridge",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 6995,
+        "question": "According to the census, what is the population of Kyōto Prefecture?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 326,
+        "question": "Is Ziauddin Yousafzai a father of Malala Yousafzai?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 4030,
+        "question": "Was Constantin Stanislavski born in Moscow?",
+        "category": "resource",
+        "type": [
+            "former administrative territorial entity",
+            "state",
+            "country"
+        ]
+    },
+    {
+        "id": 24343,
+        "question": "WHICH IS THE CITY OF UNITED STATES THAT STARTS WITH W",
+        "category": "resource",
+        "type": [
+            "human settlement",
+            "city",
+            "municipal corporation in the United States",
+            "like a city"
+        ]
+    },
+    {
+        "id": 13253,
+        "question": "Which place is adjacent to Turkmenistan that is a member of Commonwealth of Independent States?",
+        "category": "resource",
+        "type": [
+            "country",
+            "state",
+            "political territorial entity"
+        ]
+    },
+    {
+        "id": 18599,
+        "question": "Is the number of blank votes in the Rio Grande municipal election, 2016 for Councillor equal to 7170?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 2959,
+        "question": "Which hurricane in the Pacific had the highest sustained winds during the Pacific hurricane season of 1959?",
+        "category": "resource",
+        "type": [
+            "Atlantic North, Eastern and Central Pacific Tropical Cyclones",
+            "regional wind"
+        ]
+    },
+    {
+        "id": 18953,
+        "question": "Does aluminium-36 have a neutron number equal to 10.4?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 16724,
+        "question": "Who gave the on harbour of player of Gallipoli campaign?",
+        "category": "resource",
+        "type": [
+            "natural watercourse"
+        ]
+    },
+    {
+        "id": 24846,
+        "question": "Give me a first-class city name, that starts with an alphabet 'm'.",
+        "category": "resource",
+        "type": [
+            "city/town",
+            "city of Wisconsin",
+            "seat",
+            "human settlement"
+        ]
+    },
+    {
+        "id": 6033,
+        "question": "Get me the inventory number for Robert Southey in Leeds University Library?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 9317,
+        "question": "Until what year was Zico a member of the Brazilian national soccer team?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 20235,
+        "question": "What is Bill Belichick's  American football team for head coach?",
+        "category": "resource",
+        "type": [
+            "football club",
+            "sports team"
+        ]
+    },
+    {
+        "id": 20850,
+        "question": "What is the mascot of Georgetown University?",
+        "category": "resource",
+        "type": [
+            "mascot",
+            "costumed character",
+            "dog"
+        ]
+    },
+    {
+        "id": 17894,
+        "question": "What is the main color of a polar bear?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 754,
+        "question": "Was San_Diego owner of SDCCU Stadium and California State Route 209?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 2552,
+        "question": "What is the newspaper with the MAX publication interval?",
+        "category": "resource",
+        "type": [
+            "periodical",
+            "mass media",
+            "organization",
+            "goods",
+            "written news media",
+            "business"
+        ]
+    },
+    {
+        "id": 5672,
+        "question": "How long was Henry VII king of England?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 14971,
+        "question": "Which are the peculiar feature of Internal structure of the Moon?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 18234,
+        "question": "DOES THE SPECIFIC AGE INSIDE FICTIONAL UNIVERSE OF THE DR.LANYON EQUALS 50",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 28971,
+        "question": "Which is the musical conductor of Lorin Maazel?",
+        "category": "resource",
+        "type": [
+            "concert"
+        ]
+    },
+    {
+        "id": 18156,
+        "question": "Does rio dei Bareteri have a total watershed area that is equal to  0.0?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 18116,
+        "question": "Is 12 the suicide rate of the United States of America?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 27529,
+        "question": "Which is the CiNii author ID of the books of François Hollande?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 14546,
+        "question": "Who is buried next to Hasdai Crescas?",
+        "category": "resource",
+        "type": [
+            "third-order administrative division",
+            "municipio",
+            "LAU 2",
+            "administrative territorial entity of Spain"
+        ]
+    },
+    {
+        "id": 13123,
+        "question": "What is the aspect of the history of Malta, which has a diplomatic relation that is India?",
+        "category": "resource",
+        "type": [
+            "state",
+            "country"
+        ]
+    },
+    {
+        "id": 23537,
+        "question": "Tell me Norse deity whose name has the word oor in it.",
+        "category": "resource",
+        "type": [
+            "Norse mythical character",
+            "Norse religious concept",
+            "Common Germanic deities"
+        ]
+    },
+    {
+        "id": 14101,
+        "question": "Who is the pianist artist of The Rise and Fall of Ziggy Stardust and The Spiders from Mars?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 15397,
+        "question": "What is the place of origin of the central bank of Sydney Morning Herald?",
+        "category": "resource",
+        "type": [
+            "bank",
+            "monetary authority",
+            "public enterprise",
+            "organ"
+        ]
+    },
+    {
+        "id": 24579,
+        "question": "which annual event starts with t",
+        "category": "resource",
+        "type": [
+            "recurring event"
+        ]
+    },
+    {
+        "id": 18884,
+        "question": "Does the individual tax rate of the Netherland equal 41.6?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 30011,
+        "question": "Name an award in the communications field.",
+        "category": "resource",
+        "type": [
+            "recognition",
+            "grant",
+            "bounty"
+        ]
+    },
+    {
+        "id": 26080,
+        "question": "Which is GOST 7.67 cyrillic for South Korea?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 25859,
+        "question": "Which is the sectional view of guava?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 2483,
+        "question": "What G-type main sequence star has the largest angular diameter?",
+        "category": "resource",
+        "type": [
+            "star",
+            "dwarf star",
+            "stellar population",
+            "main sequence",
+            "G"
+        ]
+    },
+    {
+        "id": 15566,
+        "question": "What is the first minister of the place of the activity of Richard Russell?",
+        "category": "resource",
+        "type": [
+            "natural person",
+            "person",
+            "omnivore"
+        ]
+    },
+    {
+        "id": 26441,
+        "question": "The head of state of Bermuda is what?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 20977,
+        "question": "Enlist the business domain of AI Jazeera",
+        "category": "resource",
+        "type": [
+            "organization",
+            "economic unit"
+        ]
+    },
+    {
+        "id": 21457,
+        "question": "Name a member of the Nazi Party.",
+        "category": "resource",
+        "type": [
+            "person",
+            "omnivore",
+            "natural person"
+        ]
+    },
+    {
+        "id": 20930,
+        "question": "What web series did Jerry Seinfeld create?",
+        "category": "resource",
+        "type": [
+            "audiovisual work",
+            "serial",
+            "web television"
+        ]
+    },
+    {
+        "id": 20971,
+        "question": "Where Charles Darwin was living?",
+        "category": "resource",
+        "type": [
+            "residential building"
+        ]
+    },
+    {
+        "id": 22882,
+        "question": "Which video game company developed Pong?",
+        "category": "resource",
+        "type": [
+            "operation",
+            "class",
+            "juridical person",
+            "organization",
+            "trademark"
+        ]
+    },
+    {
+        "id": 504,
+        "question": "Was Kelly Ripa nominated for a Daytime Emmy Award for Outstanding Younger Actress in a Drama Series and Outstanding Lead Actress in a Drama Series?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 20521,
+        "question": "The capital of Vilnius is which sovereign state?",
+        "category": "resource",
+        "type": [
+            "state",
+            "country",
+            "former administrative territorial entity"
+        ]
+    },
+    {
+        "id": 15681,
+        "question": "How many children are out of school in the Middle East?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 23154,
+        "question": "TELL ME THE CHEMICAL ELEMENT THAT CONTAINS THE WORD YTTERBIUM IN THEIR NAME",
+        "category": "resource",
+        "type": [
+            "class"
+        ]
+    },
+    {
+        "id": 13517,
+        "question": "Who is the prime minister of Niigata Prefecture who has a career as a politician?",
+        "category": "resource",
+        "type": [
+            "person",
+            "natural person",
+            "omnivore"
+        ]
+    },
+    {
+        "id": 1252,
+        "question": "How many ethnic groups are with the Uzbekistan?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 21659,
+        "question": "Who is the  island nation for official language of English",
+        "category": "resource",
+        "type": [
+            "state",
+            "country",
+            "political territorial entity"
+        ]
+    },
+    {
+        "id": 14117,
+        "question": "What is numbat endemism that has states in Shire of Serpentine-Jarrahdale?",
+        "category": "resource",
+        "type": [
+            "first-level administrative country subdivision",
+            "federated state",
+            "state or territory of Australia",
+            "constituency"
+        ]
+    },
+    {
+        "id": 1026,
+        "question": "how many bug tracking systems does tencent qq have?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 7991,
+        "question": "When did Sandra Day O'Connor become the Associate Justice of the Supreme Court of the United States?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 20352,
+        "question": "What's the TV series episode for Stephen Hawking's characters?",
+        "category": "resource",
+        "type": [
+            "television series episode",
+            "episode",
+            "audiovisual work",
+            "television program"
+        ]
+    },
+    {
+        "id": 25764,
+        "question": "What is located in the administrative territorial entity of Nicaragua?",
+        "category": "resource",
+        "type": [
+            "first-level administrative country subdivision",
+            "departamento",
+            "administrative territorial entity of Nicaragua"
+        ]
+    },
+    {
+        "id": 21702,
+        "question": "Southeast Asia is located on which continent?",
+        "category": "resource",
+        "type": [
+            "territorial entity",
+            "natural geographic object",
+            "geographic location",
+            "landmass"
+        ]
+    },
+    {
+        "id": 2718,
+        "question": "Which billionaire has the highest net worth estimate?",
+        "category": "resource",
+        "type": [
+            "natural person",
+            "omnivore",
+            "person"
+        ]
+    },
+    {
+        "id": 26936,
+        "question": "What is Jamie Gillis' Pornhub ID?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 27113,
+        "question": "What is registration number for Ahmedabad?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 18921,
+        "question": "Is the number of races by Alan Staley more than 1.2?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 12339,
+        "question": "\"Where is the birthplace of Philippe Quintais, which is considered the sister city to Bethlehem?\"",
+        "category": "resource",
+        "type": [
+            "territorial collectivity of France",
+            "constituency",
+            "fourth-level administrative country subdivision",
+            "fifth-level administrative country subdivision",
+            "human settlement",
+            "municipality",
+            "commune",
+            "LAU 2"
+        ]
+    },
+    {
+        "id": 26906,
+        "question": "Which is the Internet Broadway Database show ID for Antigone?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 27005,
+        "question": "Which is the Tropicos publication ID for Botanical Journal of the Linnean Society?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 16929,
+        "question": "Which continent did Douglas Adams live in?",
+        "category": "resource",
+        "type": [
+            "natural geographic object",
+            "geographic location",
+            "landmass"
+        ]
+    },
+    {
+        "id": 22769,
+        "question": "What continent is East Asia located in?",
+        "category": "resource",
+        "type": [
+            "territorial entity",
+            "natural geographic object",
+            "geographic location",
+            "landmass"
+        ]
+    },
+    {
+        "id": 7795,
+        "question": "Who was Herbert von Karajan employed by when he was replaced by Paul van Kempen?",
+        "category": "resource",
+        "type": [
+            "performing arts building",
+            "music venue",
+            "venue",
+            "building",
+            "theatre",
+            "public building"
+        ]
+    },
+    {
+        "id": 24607,
+        "question": "What are the Greek primordial deity which start with the letter u",
+        "category": "resource",
+        "type": [
+            "Greek deity"
+        ]
+    },
+    {
+        "id": 1293,
+        "question": "how many academic degrees does ernest rutherford have?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 401,
+        "question": "Is it true that Eric Clapton played the guitar?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 12083,
+        "question": "Where did Boleslaw Prus pass away? It is a sister city of Vilnius.",
+        "category": "resource",
+        "type": [
+            "city",
+            "city/town",
+            "urban area",
+            "geographic location",
+            "human settlement",
+            "powiat of Poland",
+            "big city",
+            "building complex",
+            "community"
+        ]
+    },
+    {
+        "id": 14753,
+        "question": "Who is actress at part of series You Give Lunch a Bad Name?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 28778,
+        "question": "Which is the season start for the A-League?",
+        "category": "resource",
+        "type": [
+            "month"
+        ]
+    },
+    {
+        "id": 3486,
+        "question": "What thesaurus has British Museum as the smallest Wikidata property?",
+        "category": "resource",
+        "type": [
+            "conceptual model",
+            "controlled vocabulary"
+        ]
+    },
+    {
+        "id": 8289,
+        "question": "When did Thuringia become the Leipzig District?",
+        "category": "resource",
+        "type": [
+            "second-level administrative country subdivision",
+            "political territorial entity",
+            "administrative territorial entity of the German Democratic Republic"
+        ]
+    },
+    {
+        "id": 24515,
+        "question": "What are the Native American tribe in the United States which start with the letter t",
+        "category": "resource",
+        "type": [
+            "people",
+            "tribe",
+            "Indigenous peoples of the United States",
+            "geographic location",
+            "geographic region",
+            "social group",
+            "indigenous people",
+            "artificial geographic entity",
+            "Americans",
+            "community",
+            "population group"
+        ]
+    },
+    {
+        "id": 24128,
+        "question": "What are the type of number which start with the letter n",
+        "category": "resource",
+        "type": [
+            "type",
+            "mathematical object"
+        ]
+    },
+    {
+        "id": 26884,
+        "question": "What is the side effect of combustion?",
+        "category": "resource",
+        "type": [
+            "chemical substance",
+            "solution"
+        ]
+    },
+    {
+        "id": 27779,
+        "question": "What is the UK Provider Reference Number for the University of Birmingham?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 17136,
+        "question": "WHAT IS THE DIE FROM THE PAINTERS OF SUPREMATISM",
+        "category": "resource",
+        "type": [
+            "health problem",
+            "suspected contagious disease",
+            "infection associated with diseases",
+            "disease"
+        ]
+    },
+    {
+        "id": 19123,
+        "question": "Is the wheelbase of the LuAZ-967 equal to 1800?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 14651,
+        "question": "What is the topic of History of British Columbia?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 12533,
+        "question": "What is published on Mortal Kombat that was PlayStation 3 before?",
+        "category": "resource",
+        "type": [
+            "work",
+            "type of manufactured good"
+        ]
+    },
+    {
+        "id": 20749,
+        "question": "What is the airline for business division of AirAsia?",
+        "category": "resource",
+        "type": [
+            "air carrier"
+        ]
+    },
+    {
+        "id": 22923,
+        "question": "Which is the region of Belgium that had Dutch as official language?",
+        "category": "resource",
+        "type": [
+            "community, region or language area of Belgium",
+            "first-level administrative country subdivision",
+            "legislative house",
+            "political territorial entity",
+            "macroregion"
+        ]
+    },
+    {
+        "id": 5924,
+        "question": "what is the determination method of Genome-wide genetic association study in amyotrophic lateral sclerosis?",
+        "category": "resource",
+        "type": [
+            "biological region",
+            "biological sequence",
+            "Nucleic acid sequence"
+        ]
+    },
+    {
+        "id": 22801,
+        "question": "What industry is the Coca-Cola company part of?",
+        "category": "resource",
+        "type": [
+            "economic unit",
+            "enterprise",
+            "company",
+            "business",
+            "joint-stock company",
+            "organization"
+        ]
+    },
+    {
+        "id": 174,
+        "question": "Is Hokkien the official language of United Nations?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 22525,
+        "question": "who single for lyrics by of Irving Berlin?",
+        "category": "resource",
+        "type": [
+            "musical work",
+            "vocal music",
+            "specialty",
+            "academic discipline",
+            "literary work",
+            "artistic creation",
+            "release",
+            "Christmas music",
+            "song",
+            "musical composition"
+        ]
+    },
+    {
+        "id": 19928,
+        "question": "Which television channel is affiliated to PBS?",
+        "category": "resource",
+        "type": [
+            "channel",
+            "broadcaster"
+        ]
+    },
+    {
+        "id": 28352,
+        "question": "Which is the BAV ID for Ida Tarbell?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 10191,
+        "question": "Who is Ultimate Fighting Championship's owner and founder?",
+        "category": "resource",
+        "type": [
+            "economic unit",
+            "natural person",
+            "person",
+            "organization",
+            "omnivore"
+        ]
+    },
+    {
+        "id": 11162,
+        "question": "Who is the spouse of Anna Akhmatova and where did they get married?",
+        "category": "resource",
+        "type": [
+            "person",
+            "natural person",
+            "omnivore"
+        ]
+    },
+    {
+        "id": 27733,
+        "question": "Which is the author name string for A Mathematical Theory of Communication?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 29344,
+        "question": "What is the mean age of the South Bohemian Region?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 1385,
+        "question": "Who was the plaintiff in the Nuremberg trials?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 14776,
+        "question": "How did the actress of Spartacus die?",
+        "category": "resource",
+        "type": [
+            "cause of death"
+        ]
+    },
+    {
+        "id": 26644,
+        "question": "Which is the Swedish Olympic Committee athelete ID for Jan-Ove Waldner?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 11424,
+        "question": "Tell me about position held of Malcolm Fraser and elected in?",
+        "category": "resource",
+        "type": [
+            "position",
+            "occupation",
+            "role"
+        ]
+    },
+    {
+        "id": 26434,
+        "question": "Väinö Linna received what prize?",
+        "category": "resource",
+        "type": [
+            "award"
+        ]
+    },
+    {
+        "id": 26261,
+        "question": "What is the Xenopus Anatomical Ontology ID for the musculoskeletal system?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 26769,
+        "question": "What is Leo XIII's ODIS ID?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 19250,
+        "question": "Is the Gini coefficient of France equal to 23.936?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 11598,
+        "question": "What is the noble title of Chlothar II?",
+        "category": "resource",
+        "type": [
+            "rank",
+            "title",
+            "social class"
+        ]
+    },
+    {
+        "id": 28878,
+        "question": "watchmaker esco id?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 10011,
+        "question": "When is Hanukkah and which traditional food is offered?",
+        "category": "resource",
+        "type": [
+            "occurrence"
+        ]
+    },
+    {
+        "id": 29896,
+        "question": "Which is the research method used by social science?",
+        "category": "resource",
+        "type": [
+            "method"
+        ]
+    },
+    {
+        "id": 15259,
+        "question": "What category of associated people are in Le Mans' twin town?",
+        "category": "resource",
+        "type": [
+            "Wikimedia internal item",
+            "list"
+        ]
+    },
+    {
+        "id": 29745,
+        "question": "What is the main topic of Wham!?",
+        "category": "resource",
+        "type": [
+            "Wikimedia template"
+        ]
+    },
+    {
+        "id": 5175,
+        "question": "What medals did Michael Phelps win in the 2012 Summer Olympics?",
+        "category": "resource",
+        "type": [
+            "Olympic award",
+            "sports award",
+            "medal"
+        ]
+    },
+    {
+        "id": 26012,
+        "question": "wich means explosive velocity at 2,4,6-trinitrotoluene?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 6707,
+        "question": "What is the  time point  for  Věra Čáslavská  as  Gratias Agit?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 21510,
+        "question": "Where is the grave of Sun Yat-sen?",
+        "category": "resource",
+        "type": [
+            "burial or funerary  structures",
+            "grave"
+        ]
+    },
+    {
+        "id": 10044,
+        "question": "Who is the mother and child of Courtney Love?",
+        "category": "resource",
+        "type": [
+            "person",
+            "omnivore",
+            "natural person"
+        ]
+    },
+    {
+        "id": 875,
+        "question": "Was Grace Jones nominated for a Golden Raspberry Award for Worst Supporting Actor and an MTV Music Award for Best Female Video?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 15451,
+        "question": "Who is the coach of the Bogdan Tiru team?",
+        "category": "resource",
+        "type": [
+            "natural person",
+            "person",
+            "omnivore"
+        ]
+    },
+    {
+        "id": 28552,
+        "question": "What is Galiciana Author ID for Augustine of Hippo?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 15767,
+        "question": "Who is the favorite player of the writer of Black Girl/White Girl?",
+        "category": "resource",
+        "type": [
+            "person",
+            "natural person",
+            "omnivore"
+        ]
+    },
+    {
+        "id": 20729,
+        "question": "Name the sibling of Jon Voight",
+        "category": "resource",
+        "type": [
+            "person",
+            "omnivore",
+            "natural person"
+        ]
+    },
+    {
+        "id": 15801,
+        "question": "Who co-founded the label of Godfather Buried Alive?",
+        "category": "resource",
+        "type": [
+            "person",
+            "omnivore",
+            "natural person"
+        ]
+    },
+    {
+        "id": 20490,
+        "question": "WHat is the highest position in theUnited States Environmental Protection Agency?",
+        "category": "resource",
+        "type": [
+            "role"
+        ]
+    },
+    {
+        "id": 24451,
+        "question": "which sports club starts with the letter a",
+        "category": "resource",
+        "type": [
+            "club",
+            "sports organization"
+        ]
+    },
+    {
+        "id": 28338,
+        "question": "Who is the narrator of Derek Jacobi?",
+        "category": "resource",
+        "type": [
+            "series",
+            "moving image",
+            "visual artwork",
+            "audiovisual work"
+        ]
+    },
+    {
+        "id": 503,
+        "question": "Was Playboy published by Playboy Enterprises and Hubert Burda Media Holding?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 6739,
+        "question": "when did the silmarillion received the locus award for best fantasy novel?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 21966,
+        "question": "What chronicles are written in Old English?",
+        "category": "resource",
+        "type": [
+            "personal testimonial",
+            "written work",
+            "text",
+            "historiography",
+            "creative work"
+        ]
+    },
+    {
+        "id": 21338,
+        "question": "Who is the owner of Grumpy Cat?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 26588,
+        "question": "What is Morrisey's Munzinger Pop ID?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 25750,
+        "question": "Which is the Smithsonian American Art Museum: person/institution thesaurus ID for Antoine Watteau?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 3878,
+        "question": "When did Leon Lai and Gaile Lok marry?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 27741,
+        "question": "Which is the GeoNames feature code of wetland?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 23479,
+        "question": "TELL ME PHONETIC ALPHABET WHOSE NAME HAS THE WORD TEUTHONISTA IN IT.",
+        "category": "resource",
+        "type": [
+            "alphabet",
+            "phonetic writing system"
+        ]
+    },
+    {
+        "id": 9776,
+        "question": "which is the medical treatment and health specialty of Ebola_virus_disease?",
+        "category": "resource",
+        "type": [
+            "branch of science",
+            "health specialty",
+            "term"
+        ]
+    },
+    {
+        "id": 19797,
+        "question": "What work earned Ron Howard a Golden Globe nomination?",
+        "category": "resource",
+        "type": [
+            "film award",
+            "television award",
+            "recognition",
+            "bounty",
+            "grant"
+        ]
+    },
+    {
+        "id": 20614,
+        "question": "What is the spoken language of Tagalog",
+        "category": "resource",
+        "type": [
+            "languoid",
+            "human language"
+        ]
+    },
+    {
+        "id": 29011,
+        "question": "Which is the Commonwealth Games Federation athlete ID of Sebastian Coe?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 9236,
+        "question": "When Nikola Pašić ended his position as Prime Minister of Serbia?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 6540,
+        "question": "Whom was replaced as minister of home affairs?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 15985,
+        "question": "Who is the tenant in The Rape of Proserpina?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "art collection",
+            "natural person"
+        ]
+    },
+    {
+        "id": 13049,
+        "question": "What is the forename of John Stagliano, which also has the same meaning as \"loan\"?",
+        "category": "resource",
+        "type": [
+            "given name"
+        ]
+    },
+    {
+        "id": 22839,
+        "question": "Neil Armstrong was the crew member of which moon landing?",
+        "category": "resource",
+        "type": [
+            "spaceflight",
+            "landing"
+        ]
+    },
+    {
+        "id": 28555,
+        "question": "Which is the OpenPlaques subject ID of Richard Wagner?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 21363,
+        "question": "That airplane is used by which fleet?",
+        "category": "resource",
+        "type": [
+            "Fleet",
+            "organization",
+            "aircraft class",
+            "goods"
+        ]
+    },
+    {
+        "id": 2799,
+        "question": "Which arch dam has the highest annual energy output?",
+        "category": "resource",
+        "type": [
+            "dam",
+            "power station"
+        ]
+    },
+    {
+        "id": 3543,
+        "question": "What's the flammable liquid with the smallest combustion enthalpy and is a high quality for hygroscopy?",
+        "category": "resource",
+        "type": [
+            "noxae",
+            "monohydric alcohol",
+            "flammable liquid",
+            "toxin",
+            "alcohols",
+            "pure substance",
+            "chemical component"
+        ]
+    },
+    {
+        "id": 5253,
+        "question": "In what country is Vyacheslav Tikhonov's birthplace, Pavlovsky Posad?",
+        "category": "resource",
+        "type": [
+            "former administrative territorial entity",
+            "state",
+            "country"
+        ]
+    },
+    {
+        "id": 11697,
+        "question": "What position did James Matheson hold and when did it start?",
+        "category": "resource",
+        "type": [
+            "role"
+        ]
+    },
+    {
+        "id": 19927,
+        "question": "What type of work is available in Seville?",
+        "category": "resource",
+        "type": [
+            "person",
+            "natural person",
+            "omnivore"
+        ]
+    },
+    {
+        "id": 25008,
+        "question": "Which is the association football stadium for which Foster + Partners were architects and contains the word stadium in it's name?",
+        "category": "resource",
+        "type": [
+            "all-seater stadium",
+            "association football venue"
+        ]
+    },
+    {
+        "id": 22595,
+        "question": "What radio award is named after Salzburg?",
+        "category": "resource",
+        "type": [
+            "award",
+            "art prize",
+            "culture award"
+        ]
+    },
+    {
+        "id": 26854,
+        "question": "Which is the minimum wavelength of sensitivity of Karl G. Jansky Very Large Array?",
+        "category": "literal",
+        "type": [
+            "number"
+        ]
+    },
+    {
+        "id": 25661,
+        "question": "What people are indigenous to the USA and start with the letter A?",
+        "category": "resource",
+        "type": [
+            "idiom",
+            "lect",
+            "human language",
+            "language variety"
+        ]
+    },
+    {
+        "id": 14252,
+        "question": "Name the significance of county of Saskatchewan and has its category of association with Canadian people.",
+        "category": "resource",
+        "type": [
+            "state",
+            "political territorial entity",
+            "country"
+        ]
+    },
+    {
+        "id": 12649,
+        "question": "What audio language is O Tannenbaum in? The regulatory body is the IDS - Institute for the German Language.",
+        "category": "resource",
+        "type": [
+            "languoid",
+            "human language"
+        ]
+    },
+    {
+        "id": 937,
+        "question": "Was Billy_Bob_Thornton award received Golden Globe Award for Best Screenplay and Edgar Award?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 29381,
+        "question": "What is dimethyl ether's UN number?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 3184,
+        "question": "Name the region with the least amount of association football clubs.",
+        "category": "resource",
+        "type": [
+            "sport",
+            "aspect in a geographic region"
+        ]
+    },
+    {
+        "id": 15571,
+        "question": "What written work precedes that of A Long Way from Chicago?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 17169,
+        "question": "Which is the postcode of the hometown of Ricky Martin?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 28532,
+        "question": "Which is the military rank for George Vancouver?",
+        "category": "resource",
+        "type": [
+            "naval officer",
+            "military rank",
+            "rank"
+        ]
+    },
+    {
+        "id": 17465,
+        "question": "Name the disciple or the faith followed up by Theodosius Dobzhansky",
+        "category": "resource",
+        "type": [
+            "religious organization"
+        ]
+    },
+    {
+        "id": 27874,
+        "question": "What is Hawai‘i Sports Hall of Fame ID for Duke Kahanamoku?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 9741,
+        "question": "Where is the official residence and the office from which Pope directs the organisation?",
+        "category": "resource",
+        "type": [
+            "religious organization",
+            "palace"
+        ]
+    },
+    {
+        "id": 27960,
+        "question": "what is decimal of radix",
+        "category": "resource",
+        "type": [
+            "polygonal number",
+            "pyramidal number",
+            "Natural",
+            "orders of magnitude of numbers",
+            "composite number",
+            "non-negative integer",
+            "rational number",
+            "positive integer",
+            "integer",
+            "natural number"
+        ]
+    },
+    {
+        "id": 3793,
+        "question": "What is the coordinate location of the mouth of the watercourse in the Bay of Biscay, Loire?",
+        "category": "literal",
+        "type": [
+            "string"
+        ]
+    },
+    {
+        "id": 9753,
+        "question": "Which is the taxon rank and the temporal range start of Animal?",
+        "category": "resource",
+        "type": [
+            "taxonomic rank",
+            "chronostratigraphic unit",
+            "rank",
+            "temporal entity"
+        ]
+    },
+    {
+        "id": 22564,
+        "question": "What Russian Orthodox monastery is in this diocese?",
+        "category": "resource",
+        "type": [
+            "religious building",
+            "organization",
+            "institutional complex",
+            "place of worship",
+            "heritage site"
+        ]
+    },
+    {
+        "id": 11288,
+        "question": "Who is Marilyn Monroe's husband and when did they end their marriage?",
+        "category": "resource",
+        "type": [
+            "person",
+            "natural person",
+            "omnivore"
+        ]
+    },
+    {
+        "id": 20817,
+        "question": "What Wikipedia article lists the monuments in Lyon?",
+        "category": "resource",
+        "type": [
+            "Wikimedia internal item",
+            "list",
+            "MediaWiki main-namespace page"
+        ]
+    },
+    {
+        "id": 11890,
+        "question": "What is the birth city of Augustus III of Poland, which has boroughs in Cotta?",
+        "category": "resource",
+        "type": [
+            "city",
+            "city/town",
+            "place with town rights and privileges",
+            "independent city of Germany",
+            "regional center of Germany",
+            "urban area",
+            "human settlement",
+            "urban municipality of Germany",
+            "community",
+            "municipality of Germany",
+            "state capital",
+            "districts and some cities of Germany"
+        ]
+    },
+    {
+        "id": 8877,
+        "question": "What was Raiders of the Lost Ark nominated for at the 54th Academy Awards?",
+        "category": "resource",
+        "type": [
+            "film award"
+        ]
+    },
+    {
+        "id": 19354,
+        "question": "Is it true that the absolute magnitude of the Triton equals to -1.2?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 11770,
+        "question": "Who is the sister of Claudius whose public office is the consul of the Roman Empire?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 28794,
+        "question": "Which is decays to Higgs boson?",
+        "category": "resource",
+        "type": [
+            "type"
+        ]
+    },
+    {
+        "id": 3228,
+        "question": "Which binary star has the child astronomical body Aldebaran b and the lowest color index.",
+        "category": "resource",
+        "type": [
+            "giant star"
+        ]
+    },
+    {
+        "id": 113,
+        "question": "Is Anderson Cooper's mother Gloria Vanderbilt?",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "id": 27755,
+        "question": "What is in the category of Wembley Stadium?",
+        "category": "resource",
+        "type": [
+            "national sports team",
+            "association football team"
+        ]
+    },
+    {
+        "id": 20070,
+        "question": "What academic major studies Hebrew?",
+        "category": "resource",
+        "type": [
+            "academic discipline",
+            "specialty"
+        ]
+    },
+    {
+        "id": 12564,
+        "question": "What is the die form for Luigi Comencini that has the genetic association of CNKSR3?",
+        "category": "resource",
+        "type": [
+            "disease",
+            "health problem",
+            "syndrome"
+        ]
+    },
+    {
+        "id": 19974,
+        "question": "In Norse mythology, who is the partner of Odin?",
+        "category": "resource",
+        "type": [
+            "Norse mythical entity",
+            "mythical character"
+        ]
+    },
+    {
+        "id": 29093,
+        "question": "Who is the choreographer of The Rite of Spring?",
+        "category": "resource",
+        "type": [
+            "omnivore",
+            "person",
+            "natural person"
+        ]
+    },
+    {
+        "id": 21678,
+        "question": "What is the version, edition or translation of The Little Prince?",
+        "category": "resource",
+        "type": [
+            "manifestation",
+            "work"
+        ]
+    },
+    {
+        "id": 13158,
+        "question": "Is Brooklyn that has cities the birth location of Richard E. Bellman?",
+        "category": "resource",
+        "type": [
+            "city",
+            "city/town",
+            "human settlement",
+            "urban area",
+            "municipal corporation in the United States",
+            "like a city",
+            "big city",
+            "community"
+        ]
+    },
+    {
+        "id": 24019,
+        "question": "What are the physical quantity which start with the letter w",
+        "category": "resource",
+        "type": [
+            "physical property",
+            "individual quantity",
+            "quantity"
+        ]
+    },
+    {
+        "id": 20153,
+        "question": "What is the position of the European Parliament to appoint?",
+        "category": "resource",
+        "type": [
+            "role",
+            "occupation",
+            "position"
+        ]
+    },
+    {
+        "id": 9511,
+        "question": "Who are the parents of Edward IV of England?",
+        "category": "resource",
+        "type": [
+            "person",
+            "omnivore",
+            "natural person"
+        ]
+    },
+    {
+        "id": 4331,
+        "question": "What was Michael Jackson's manner of death?",
+        "category": "resource",
+        "type": [
+            "cause of death"
+        ]
+    },
+    {
+        "id": 14234,
+        "question": "A stockholder of Nintendo, what is the publishing house of Pokémon?",
+        "category": "resource",
+        "type": [
+            "organization",
+            "operation",
+            "economic unit",
+            "juridical person"
+        ]
+    },
+    {
+        "id": 23187,
+        "question": "What numeral system contains the word \"system\" in its name?",
+        "category": "resource",
+        "type": [
+            "numeral system",
+            "non-standard positional numeral system",
+            "writing system"
+        ]
+    },
+    {
+        "id": 15180,
+        "question": "Who owns the paintings of Paula Hoegh-Guldberg?",
+        "category": "resource",
+        "type": [
+            "natural phenomenon",
+            "meteorological concept",
+            "living organism class"
+        ]
+    },
+    {
+        "id": 3435,
+        "question": "Which technical standard has the lowest pressure?",
+        "category": "resource",
+        "type": [
+            "measuring standard",
+            "rule",
+            "document",
+            "point"
+        ]
+    },
+    {
+        "id": 8009,
+        "question": "Which character did Graham Chapman play in Monty Python and the Holy Grail?",
+        "category": "resource",
+        "type": [
+            "narrative entity",
+            "person",
+            "mythical entity",
+            "abstract being",
+            "fictional character"
+        ]
+    },
+    {
+        "id": 29797,
+        "question": "Which spaceflight was Alan Shepard part of?",
+        "category": "resource",
+        "type": [
+            "spaceflight",
+            "flight",
+            "landing"
+        ]
+    },
+    {
+        "id": 28984,
+        "question": "Which is the animal breed for Cavalier King Charles Spaniel?",
+        "category": "resource",
+        "type": [
+            "pet",
+            "domesticated mammal"
+        ]
+    },
+    {
+        "id": 24256,
+        "question": "Name a kind of leather that starts with letter S",
+        "category": "resource",
+        "type": [
+            "clothing material"
+        ]
+    },
+    {
+        "id": 16982,
+        "question": "What are the subsidiary entities of the United States Department of the Air Force's parent unit?",
+        "category": "resource",
+        "type": [
+            "government organization"
+        ]
+    },
+    {
+        "id": 6241,
+        "question": "What is the end time named after Oghuz Khagan that June has?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    },
+    {
+        "id": 5227,
+        "question": "What is the academic major and degree of Bengt Holmstrom's?",
+        "category": "resource",
+        "type": [
+            "qualification (degree)",
+            "postgraduate degree",
+            "academic title"
+        ]
+    },
+    {
+        "id": 16124,
+        "question": "The Treaty of Versailles was signed by which diplomats?",
+        "category": "resource",
+        "type": [
+            "state",
+            "country",
+            "political territorial entity"
+        ]
+    },
+    {
+        "id": 22576,
+        "question": "What is crew member Yuri Gagarin's Vostok?",
+        "category": "resource",
+        "type": [
+            "spacecraft",
+            "spaceflight"
+        ]
+    },
+    {
+        "id": 5239,
+        "question": "When did Brittany Murphy and Simon Monjack get married?",
+        "category": "literal",
+        "type": [
+            "date"
+        ]
+    }
+]
