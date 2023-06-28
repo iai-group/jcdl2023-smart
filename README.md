@@ -33,3 +33,93 @@ model_list=( roberta xlnet )
 | KG-RDF2Vec                       |   | 0.729                                        | 0.701                    | 0.656                                   |   | 0.831                    | 0.815               | 0.791            |   | 0.67          | 0.78          |
 | BERT-TypeDesc                    |   | 0.727                                        | 0.706                    | 0.665                                   |   | 0.830                    | 0.818               | 0.795            |   | 0.67          | 0.78          |
 | BERT-TypeDesc-FT                 |   | 0.734                     | 0.712 | 0.678                |   | 0.834           | 0.822      | 0.802   |   | 0.68 | 0.79 |
+
+<table>
+  <tr>
+    <th>Method</th>
+    <th colspan="3">DBpedia Type Classification</th>
+    <th></th>
+    <th colspan="3">DBpedia End-to-End</th>
+    <th></th>
+    <th>Wikidata Type Classification</th>
+    <th>Wikidata End-to-End</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>NDCG@3</th>
+    <th>NDCG@5</th>
+    <th>NDCG@10</th>
+    <th></th>
+   <th>NDCG@3</th>
+    <th>NDCG@5</th>
+    <th>NDCG@10</th>
+    <th></th>
+    <th>MRR</th>
+    <th>MRR</th>
+  </tr>
+  <tr>
+    <td>Question text (TF-IDF)</td>
+    <td>0.717</td>
+    <td>0.693</td>
+    <td>0.650</td>
+    <td></td>
+    <td>0.824</td>
+    <td>0.811</td>
+    <td>0.787</td>
+    <td></td>
+    <td>0.66</td>
+    <td>0.76</td>
+  </tr>
+  <tr>
+    <td>KG-TypeSim</td>
+    <td>0.725</td>
+    <td>0.697</td>
+    <td>0.662</td>
+    <td></td>
+    <td>0.828</td>
+    <td>0.813</td>
+    <td>0.793</td>
+    <td></td>
+    <td>0.67</td>
+    <td>0.77</td>
+  </tr>
+  <tr>
+    <td>KG-RDF2Vec</td>
+    <td>0.729</td>
+    <td>0.701</td>
+    <td>0.656</td>
+    <td></td>
+    <td>0.831</td>
+    <td>0.815</td>
+    <td>0.791</td>
+    <td></td>
+    <td>0.67</td>
+    <td>0.78</td>
+  </tr>
+  <tr>
+    <td>BERT-TypeDesc</td>
+    <td>0.727</td>
+    <td>0.706</td>
+    <td>0.665</td>
+    <td></td>
+    <td>0.830</td>
+    <td>0.818</td>
+    <td>0.795</td>
+    <td></td>
+    <td>0.67</td>
+    <td>0.78</td>
+  </tr>
+  <tr>
+    <td>BERT-TypeDesc-FT</td>
+    <td>0.734</td>
+    <td>0.712</td>
+    <td>0.678</td>
+    <td></td>
+    <td>0.834</td>
+    <td>0.822</td>
+    <td>0.802</td>
+    <td></td>
+    <td>0.68</td>
+    <td>0.79</td>
+  </tr>
+</table>
