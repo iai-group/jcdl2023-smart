@@ -25,7 +25,8 @@ model_list=( roberta xlnet )
 5. To run with a sample data and for pytest unit tests to pass run ```./scripts/run_experiments.sh True``` The True flag runs it in test mode.
 
 # Results
-|Method| |DBpedia||||||||Wikidata||
+|Method| |DBpedia Type Classification|||DBpedia End-to-End|||||Wikidata||
+
 |----------------------------------|---|-----------|---|---------------|--------------|-------------------------|--------|------|--------|-------|-----|
 | Question text (TF-IDF)           |   | 0.717                                        | 0.693                    | 0.650                                   |   | 0.824                    | 0.811               | 0.787            |   | 0.66          | 0.76          |
 | KG-TypeSim                       |   | 0.725                                        | 0.697                    | 0.662                                   |   | 0.828                    | 0.813               | 0.793            |   | 0.67          | 0.77          |
